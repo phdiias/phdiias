@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Pedro Henrique
 <h4>🧑🏻‍💻 Atualmente estou estudando HTML, CSS  e JS. </h4>
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=phdiias&show_icons=true&theme=tokyonight)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=phdiias&show_icons=true&theme=dark )
 
 ## Tecnologias que estou aprendendo e praticando
 <div style="display: inline_block">
