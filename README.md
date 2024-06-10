@@ -1,5 +1,5 @@
-## Olá! Meu eu me chamo Pedro Henrique =)
-<h4>🧑🏻‍💻 Atualmente estou estudando HTML, CSS  e JS. </h4>
+## Olá! Eu me chamo Pedro Henrique =)
+<p>🧑🏻‍💻 Atualmente estou estudando HTML, CSS  e JS. </p>
 
 <table align="center">
   <tr>
